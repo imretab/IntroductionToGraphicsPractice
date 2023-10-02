@@ -1,0 +1,7 @@
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\obj\Debug\Cohen-Sutherland-CLI.csproj.AssemblyReference.cache
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\obj\Debug\Cohen-Sutherland-CLI.csproj.CoreCompileInputs.cache
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\bin\Debug\Cohen-Sutherland-CLI.exe.config
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\bin\Debug\Cohen-Sutherland-CLI.exe
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\bin\Debug\Cohen-Sutherland-CLI.pdb
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\obj\Debug\Cohen-Sutherland-CLI.exe
+E:\Grafika\Házi\Cohen-Sutherland-CLI\Cohen-Sutherland-CLI\obj\Debug\Cohen-Sutherland-CLI.pdb
