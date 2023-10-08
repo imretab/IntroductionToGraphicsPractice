@@ -1,0 +1,10 @@
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\bin\Debug\RasterShapesDraw.exe.config
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\bin\Debug\RasterShapesDraw.exe
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\bin\Debug\RasterShapesDraw.pdb
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.csproj.AssemblyReference.cache
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.Form1.resources
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.Properties.Resources.resources
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.csproj.GenerateResource.cache
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.csproj.CoreCompileInputs.cache
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.exe
+E:\Grafika\Házi\RasterShapesDraw\RasterShapesDraw\obj\Debug\RasterShapesDraw.pdb
