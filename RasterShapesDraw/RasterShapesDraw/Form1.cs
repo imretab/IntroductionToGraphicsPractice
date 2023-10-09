@@ -99,11 +99,19 @@ namespace RasterShapesDraw
                         }
                         x = int.Parse(splitted[0]);
                         y = int.Parse(splitted[1]);
+                        if(x <= 0 || y <= 0)
+                        {
+                            throw new LessThanZeroException();
+                        }
                         Checker(x, y);
                     }
                     catch (FormatException fe)
                     {
                         MessageBox.Show(fe.Message,"ERROR",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    }
+                    catch(LessThanZeroException le)
+                    {
+                        MessageBox.Show(le.Message, "ERROR",MessageBoxButtons.OK,MessageBoxIcon.Error);
                     }
                     break;
                 case 2:
